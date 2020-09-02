@@ -1,0 +1,22 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        int index;
+        index = 5;
+        String a;
+        a = "Stacey Manson";
+        Boolean b;
+        b = false;
+        float c;
+        c = 102.2f;
+
+        System.out.println("Name: " + a);
+        System.out.println("Patient has insurance: " + b);
+        System.out.println("Body temprature: " + c);
+        System.out.println("Number of visits:" + index);
+
+    }
+}
